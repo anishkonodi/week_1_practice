@@ -1,0 +1,9 @@
+step1: (salary)read employee salary
+step2: (bill1)read first shopping bill
+step3: (bill2)read second shopping bill
+step4: (bill3)read third shopping bill
+step5: compute total shopping amount 
+       total=bill1+bill2+bill3
+step6: compute percent (total/salary)*100
+step7: display total shopping amount
+step8: dispaly percent

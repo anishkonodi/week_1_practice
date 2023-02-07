@@ -1,0 +1,11 @@
+step1: read external marks
+step2: read internal marks
+step3: read project marks
+step4: if external internal and project marks is greater than 50 
+step5: compute (10*internalscore)/100 and store to variable called internal
+step6: compute (20*external score)/100 and store to the variable called external
+step7: compute (70* projectcore)/100 and store to the variable called project
+step8: compute total score= internal +external+ project 
+step9: if total score is >=90 print A grade
+step10: if total score is >=70 and <= 90 print B grade
+step11: if total score is >=50 and <=70 print C grade

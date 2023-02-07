@@ -1,0 +1,11 @@
+Write an algorithm to accept 3 subjects marks and print total and average marks.
+
+
+step1: read subject1 marks
+step2: read subject2 marks
+step3: read subject3 marks
+step4: compute addition of three subject marks
+step5: compute average of three subject marks 
+       sub1+sub2+sub3/3
+step4: display total 
+step5: display average

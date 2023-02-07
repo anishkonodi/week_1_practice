@@ -1,0 +1,5 @@
+step1: read num1
+step2: read num2
+step3: add num1 and num 2 
+          total=(num1+num2)
+step4: display total
