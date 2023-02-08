@@ -1,0 +1,9 @@
+begin 
+     number marks
+     print("enter student marks")
+     input marks
+     if marks<=0 &&  marks>=100
+       print("valid marks")
+     else
+       print("invalid marks")
+end 

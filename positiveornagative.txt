@@ -1,0 +1,12 @@
+begin 
+     number num1
+     print("enter the number")
+     input num1
+     if num1<0
+         print("the entered number is nagative")
+     else if num1==0
+         print("number is zero")
+     else
+         print("the entered number is positive number")
+end
+

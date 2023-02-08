@@ -1,0 +1,23 @@
+begin 
+     number num1
+     print("enter the numbers")
+     input num1
+     if num1%2==0
+       print("it is even number")
+     else
+       print("it is odd number")
+end
+
+
+
+begin 
+     number num1
+     print("enter the numbers")
+     input num1
+     if num1==0
+       print("it is zero")
+     else if num1%2==0
+       print("it is even number")
+     else
+       print("it is odd number")
+end

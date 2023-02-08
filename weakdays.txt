@@ -1,0 +1,19 @@
+begin 
+     number date
+     print("enter the date to know day")
+     input date
+     if date==1
+     print("sunday")
+     else if date==2
+     print("monday")
+     else if date==3
+     print("tuesday")
+     else if date==4
+     print("Wednesday")
+     else if date==5
+     print("thursday")
+     else if date==6
+     print("friday")
+     else
+     print("saturday")
+end

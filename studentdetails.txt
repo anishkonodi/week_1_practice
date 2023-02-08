@@ -1,0 +1,24 @@
+ to accept student name, student marks, mobile , email, college and city and display all the details on console.
+
+
+begin
+     number marks, mobile
+     string name, email, college, city
+     print("enter name of the student")
+     input name
+     print("enter marks of the student")
+     input marks
+     print("enter mobile number of the student")
+     input mobile
+     print("enter email address of the student")
+     input email
+     print("enter college name of the student")
+     input collage
+     print("enter the city name")
+     input city
+     print("name of the student is",name)
+     print("marks obtained by the student is ",marks)
+     print("mobile number of the student is ",mobile)
+     print("college name of the student is",collage)
+     print("the city name of the student is",city)
+end
