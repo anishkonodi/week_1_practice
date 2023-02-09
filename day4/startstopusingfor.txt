@@ -1,0 +1,25 @@
+write a psuedocodeto accept start and stop values and print between values
+
+
+        
+
+begin 
+     number start ,stop
+     print("enter two numbers")
+     input start
+     input stop
+     if start<stop
+     {
+       for(i=start;start<stop;i++)
+          {
+           print(i)
+          }
+      }
+     else
+      {
+        for(i=stop;stop>start;i--)
+        {
+         print(i)
+        }
+       }
+end

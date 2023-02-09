@@ -1,0 +1,16 @@
+1. Write a program to accept number and print factors of that number:
+     Sample input:  10
+     ouput:  1, 2, 5      Sample input:  50
+     ouput:  1, 2, 5, 10, 25
+
+
+
+begin 
+     number i=1, num
+     print ("enter the number to get factors")
+     input num
+     while i<=num/2
+        if num%i==0
+           print(i)
+        i=i+1
+end

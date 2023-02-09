@@ -1,0 +1,25 @@
+4.Write a program to accept a number and check it is perfect number or not         
+input:  6
+                 1 +2+3  ==> 6
+       input :28
+                 1 +2 + 4+ 7+ 14  ==> 28
+       input: 10
+                 1+2+5 ==> 10
+
+
+
+
+
+begin 
+     number num,i=1,perfect=0
+     print ("enter the number to get factors")
+     input num
+     while i<num/2
+        if num%i==0
+           perfect=perfect+i
+        i=i+1
+     if perfect==num
+        print("it is perfect number")
+     else
+       print("it is not ferfect number")
+end

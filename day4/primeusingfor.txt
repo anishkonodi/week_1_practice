@@ -1,0 +1,23 @@
+Write a program to check the given number is prime number or not
+
+begin 
+    number i,num,count=0
+     print("enter number to get factors")
+     input num
+      for(i=1;i<=num/2;i++)
+      {
+        if num%i==0
+         {
+           count=count+1
+         }
+      }
+     if count>=1
+     {
+       print("prime"
+     }
+	else
+	{
+	  print("not prime")
+	}
+     
+end

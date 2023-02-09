@@ -1,0 +1,17 @@
+5. Write a program to accept a number and print table for it.
+      input : 2
+                  2*1=2
+                  2*2=4
+                  2*10=20 
+
+begin 
+      number num,i=1,r
+       print ("enter number to get table for that")
+       input num
+       while i<=10
+           r=i*num
+           print(r)
+           i=i+1
+end
+
+   

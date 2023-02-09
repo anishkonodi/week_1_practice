@@ -1,0 +1,11 @@
+write a psuedocode to print 10-1 numbers using while loop
+
+
+
+begin 
+     number i 
+     for(i=10;i>=1:i--)
+      {
+        print(i)
+       }
+end

@@ -1,0 +1,14 @@
+write a psuedocode to print even numbers between 10-1 numbers using while loop
+
+
+
+begin 
+     number i
+     for(i=10;i<=1;i)
+      {
+        if i%2==0
+          {
+            print(i)
+           }
+      }
+end

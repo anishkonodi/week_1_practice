@@ -1,0 +1,15 @@
+Write a program to accept number and print number of factors of that number
+  
+begin
+    number i,num,count
+    print("enter number ")
+    input num
+    for(i=1;i<=num/2;i++)
+      {
+        if num%i==0
+         {
+           count=count+1
+         }
+      }
+     print(count)
+end

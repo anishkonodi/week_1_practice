@@ -1,0 +1,21 @@
+Write a program to accept a number and check it is perfect number or not
+
+
+begin 
+     number num,i=1,perfect=0
+     print ("enter the number to get factors")
+     input num
+     for (i=0;i<num/2;i++)
+       { 
+  	  if num%i==0
+        { 
+	    perfect=perfect+i
+        }
+	}
+     if perfect==num
+	{
+        print("it is perfect number")
+	}
+    else
+       print("it is not ferfect number")
+end

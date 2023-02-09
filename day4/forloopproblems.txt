@@ -1,0 +1,32 @@
+[17:38] Nagulmeera Shaik
+Draw a flow chart to print even numbers between 10-1 numbers using while loop
+
+
+[17:38] Nagulmeera Shaik
+Draw a flow chart to print odd numbers between 1-10 numbers using while loop
+
+[17:38] Nagulmeera Shaik
+Draw a flow chart to accept start and stop values and print between values
+
+
+[17:38] Nagulmeera Shaik
+Draw a flow chart to print sum of first 10 numbers
+
+[17:38] Nagulmeera Shaik
+Draw a flow cgart to print sum of even numbers and sum of odd numbers of 1-10.
+
+[17:39] Nagulmeera Shaik
+Write a program to accept number and print factors of that number:
+
+[17:39] Nagulmeera Shaik
+Write a program to accept number and print number of factors of that number:
+
+[17:39] Nagulmeera Shaik
+Write a program to check the given number is prime number or not
+
+[17:39] Nagulmeera Shaik
+Write a program to accept a number and check it is perfect number or not
+
+[17:40] Nagulmeera Shaik
+Write a program to accept a number and print table for it.
+
