@@ -1,0 +1,32 @@
+begin 
+     number num,count=0,sum=0
+     print("enter the number")
+     input num
+     while num !=0
+      {
+         rem=num%10
+         sum=sum+num
+         num=num/10
+       } 
+     print("sum of digits in given number is ",sum)
+end
+
+
+num=123
+123%10=3
+sum=0+3=3
+num=123/10=12 
+ 
+
+num=12
+12%10=2
+sum=3+2
+num=12/10
+
+num=1%10=1
+sum=5+1
+num=1/10=0
+
+while terminated and prints sum=6 
+
+

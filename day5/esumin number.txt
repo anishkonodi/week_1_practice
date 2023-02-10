@@ -1,0 +1,21 @@
+begin 
+     number num,esum=0,osum=0,rem=0
+     print("enter the number")
+     input num
+     while num !=0
+      {
+        rem=num%10
+        if( rem%2==0)
+        {
+         esum=esum+rem
+        }
+        else
+        {
+        osum=osum+rem
+        }
+        num=num/10
+      
+       } 
+     print("sum of even digits in given number is ",esum)
+     print("sum of odd digits in given number is ",osum)
+end

@@ -1,0 +1,19 @@
+begin 
+     number num,r=0,rem=0
+     print("enter the number ")
+     input num
+     while num!=0
+     {
+       rem=num%10
+       r=(r*10)+rem
+       num=num/10
+     }
+     if rev==num
+      {
+        print("it is palindrome")
+      }
+      else
+      {
+       print("it is not palindrome")
+      }
+end

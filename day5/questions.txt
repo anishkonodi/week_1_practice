@@ -1,0 +1,6 @@
+1. Write a logic print sum of even digits and odd digits in a given number
+2. Write a logic print sum of all the  digits in a given number
+3. Wriet a logic to print reverse of a given number
+      input:  2345
+      output: 5432 
+4. Write a logic to check the given number is palindrom number or not.
